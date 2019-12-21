@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드발급기", "코드발급기\코드발급기.csproj", "{6636D38F-7EC3-49A4-97E2-B51134218B2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6636D38F-7EC3-49A4-97E2-B51134218B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6636D38F-7EC3-49A4-97E2-B51134218B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6636D38F-7EC3-49A4-97E2-B51134218B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6636D38F-7EC3-49A4-97E2-B51134218B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E9B6C9-6820-4D24-A008-10050CC115FE}
+	EndGlobalSection
+EndGlobal
